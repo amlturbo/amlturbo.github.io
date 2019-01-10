@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 ### Here are my posts
 <ul>
   {% for post in site.posts %}
