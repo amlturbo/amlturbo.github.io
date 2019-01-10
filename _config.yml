@@ -1,7 +1,7 @@
 theme: jekyll-theme-tactile
 # Site settings
 title: Sustainability in the Balance
-description: foo
+description: fooBarBaz
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: foo
 github_username:  amlturbo
