@@ -1,6 +1,13 @@
 ## Welcome to GitHub Pages
 
-[My first link]({{ site.baseurl }}{% post_url 2019-01-10-title %})
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 You can use the [editor on GitHub](https://github.com/amlturbo/amlturbo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
