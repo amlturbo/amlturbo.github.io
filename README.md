@@ -1,6 +1,5 @@
 ---
 title: Sustainability in the Balance
-description: Welcome to GitHub Pagesssss
 ---
 
 <ul>
