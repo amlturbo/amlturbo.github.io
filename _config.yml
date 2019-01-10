@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
 # Site settings
 title: Sustainability in the Balance
 description: Unlocking the best thoughts that were previously locked away
