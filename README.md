@@ -1,8 +1,3 @@
----
-layout: default
-title:  "Welcome to Jekyll!"
----
-
 ## Welcome to GitHub Pagesssss
 
 <ul>
