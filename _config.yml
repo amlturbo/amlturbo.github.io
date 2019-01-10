@@ -23,6 +23,7 @@ social:
 # Build settings
 plugins:
   - jekyll-sitemap
+  - jekyll-include-cache
 
 markdown: kramdown
 highlighter: rouge
