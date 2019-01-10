@@ -1,1 +1,32 @@
 theme: jekyll-theme-tactile
+# Site settings
+title: Sustainability in the Balance
+description: foo
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: foo
+github_username:  amlturbo
+excerpt_separator: <!--more-->
+
+
+# SEO Info
+author: foo
+publisher: foo
+logo: foo #https://bradfordlynch.com/images/Headshot_Inside_Cropped.png
+twitter:
+  username: foo
+social:
+  name: foo
+  links:
+    - foo
+
+
+# Build settings
+plugins:
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
