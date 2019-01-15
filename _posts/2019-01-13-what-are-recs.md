@@ -1,6 +1,6 @@
 ---
 title: "Renewable Energy Certificates - 
-How Texas Wind Power Gets to Pennsylvania"
+How Texas Wind Power Gets to Pennsylvania...or Anywhere Else"
 header:
   image: /assets/images/IMG_20160709_211204.jpg
   caption: "Beebe 1B, Gratiot County, Wheeler, Michigan. 50.4 MW Capacity; 21 Turbines. Developed by Exelon. *A. Levy*"
