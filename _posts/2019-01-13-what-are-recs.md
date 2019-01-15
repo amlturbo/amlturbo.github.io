@@ -1,10 +1,10 @@
 ---
 title: "Renewable Energy Certificates - 
 How Texas Wind Power Gets to Pennsylvania...or Anywhere Else"
+excerpt: If we think back to high school chemistry or physics, you might recall that power is made up of moving electrons. Many different forms of energy, whether that be a magnet moving through a solenoid, coal burning in a furnace, or a wind turbine spinning in the breeze, can generate flow of electrons, moving power from the generation source to the customer. Because on the electron level all of these sources are exactly the same, how then are electrons generated from dirty, brown power differentiated from those generated from clean and green power?
 header:
   image: /assets/images/IMG_20160709_211204.jpg
   caption: "Beebe 1B, Gratiot County, Wheeler, Michigan. 50.4 MW Capacity; 21 Turbines. Developed by Exelon. *A. Levy*"
-  excerpt: If we think back to high school chemistry or physics, you might recall that power is made up of moving electrons. Many different forms of energy, whether that be a magnet moving through a solenoid, coal burning in a furnace, or a wind turbine spinning in the breeze, can generate flow of electrons, moving power from the generation source to the customer. Because on the electron level all of these sources are exactly the same, how then are electrons generated from dirty, brown power differentiated from those generated from clean and green power?
 tags: 
   - RECs
   - renewable energy
