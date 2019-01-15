@@ -3,7 +3,7 @@ title: "How (some) Utility 100% Renewable Energy Products Work"
 header:
   image: /assets/images/imag2327.jpg
   caption: "NextEra Altamont Pass Wind Farm, Livermore, California. *A. Levy*"
-tags: 
+  excerpt: Pennsylvania offers “Customer Choice,” meaning that customers have the option to choose their electricity provider, giving the customer the opportunity to comparison shop and select a supplier that aligns with their values. To some customers this could mean the cheapest rate, while to others it could mean the greenest power.
   - RECs
   - renewable energy
   - customer choice
