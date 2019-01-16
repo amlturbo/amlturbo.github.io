@@ -23,19 +23,21 @@ The answer is through Renewable Energy Certificates (RECs). With each unit of en
 ## Who Buys RECs
 One of the largest customers interested in purchasing the renewable attributes along with the power are utilities, oftentimes because they are required to meet Renewable Portfolio Standards (RPS) requirements set forth by the states in which they operate (click [here](http://www.ncsl.org/research/energy/renewable-portfolio-standards.aspx) to see all those targets, by state). Below is a table depicting a handful of states and their targets.
 
-| State        | Established | Requirement                                                                                   | Applicable Sectors                                                                   | Cost Cap           |
-|--------------|-------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------|
-| California   | 2002        | 33% by 2020; 40% by 2024; 45% by 2027; 50% by 2030                                            | Investor-owned utility, municipal utilites                                           | Determined by CPUC |
-| Colorado     | 2004        | 30% by 2020 (IOUs); 10% or 20% for municipalities and electric cooperatives depending on size | Investor owned utility, municipal utilities, cooperative utilities.                  | 2%                 |
-| Florida      | None        |                                                                                               |                                                                                      |                    |
-| Illinois     | 2007        | 25% by 2025-2026                                                                              | Investor-owned utility, retail supplier.                                             | 1.3%               |
-| New York     | 2004        | 50% by 2030                                                                                   | Investor-owned utility, municipal utilities, cooperative utilities, retail supplier. | None               |
-| Ohio         | 2008        | 12.5% by 2026.                                                                                | Investor-owned utility, retail supplier.                                             | 1.8%               |
-| Pennsylvania | 2004        | 18% by 2020-2021                                                                              | Investor-owned utility, retail supplier.                                             | None               |
-| Texas        | 1999        | 5,880 MW by 2015. 10,000 MW by 2025 (goal; achieved).                                         | Investor-owned utility, retail supplier.                                             | 3.1%               |
-| Virginia     | 2007        | 15% by 2025                                                                                   | Investor-owned utility                                                               | None               |
+| State        | Established | Renewable Requirement                                                                                   | Cost Cap           |
+|--------------|-------------|-----------------------------------------------------------------------------------------------|--------------------|
+| California   | 2002        | 33% by 2020 <br> 40% by 2024 <br> 45% by 2027 <br> 50% by 2030                                            | Determined by CPUC |
+| Colorado     | 2004        | 30% by 2020 (IOUs) <br> 10% or 20% for municipalities and electric cooperatives depending on size | 2%                 |
+| Florida      | None        |                                                                                               |                    |
+| Illinois     | 2007        | 25% by 2025-2026                                                                              | 1.3%               |
+| New York     | 2004        | 50% by 2030                                                                                   | None               |
+| Ohio         | 2008        | 12.5% by 2026                                                                                | 1.8%               |
+| Pennsylvania | 2004        | 18% by 2020-2021                                                                              | None               |
+| Texas        | 1999        | 5,880 MW by 2015 <br> 10,000 MW by 2025 (goal; achieved).                                         | 3.1%               |
+| Virginia     | 2007        | 15% by 2025 (Voluntary)                                                                                   | None               |
 
-*Cost Caps, where applicable, limit the increases in ratepayer bills*
+  * *Cost Caps, where applicable, limit the increases in ratepayer bills*
+
+  * *Texas consumed [41,000 GWh](https://www.eia.gov/state/?sid=TX#tabs-4) (1 GWh = 1,000 MWh) of electricity in September 2018. Using the 10,000 MW (10 GW) of target installed capacity shown above and assuming a 50% efficiency, Texas' renewable target generation comes out to 3,600 GWh for the month, or 9% of all generation (10 GWx30 daysx24 hours/day). In 2017 Texas reported that it had far exceeded the target, operating 26,045 MW of renewable generation, representing 23% of all generation. (26 GWx30 daysx24 hours/day)*
 
 In these cases, the RECs, called compliance RECs, have considerable value and typically must be purchased within the region where they are generated. In these cases, the utility often enters into long-term contracts with the energy producer to buy both the MWh and the RECs, and there is a market for procuring additional compliance RECs if more are still needed for balancing. Recently, similar agreements have been of interest to a growing number of public and private companies -- businesses eager to green their supply chains through procuring renewable power. Large companies have significant demand and enough negotiating power (and capital) to enter into power purchase agreements (PPAs) which are essentially contracts to purchase the power and the RECs from a given supplier for an established price or under established terms. 
 
