@@ -21,7 +21,7 @@ If we think back to high school chemistry or physics, you might recall that powe
 The answer is through Renewable Energy Certificates (RECs). With each unit of energy generated through renewable means, a REC is also generated. While the units of energy that you and your household consume are likely on the order of kilowatthours (kWh), these RECs are generated on a scale one-thousand-times that, or megawatthours (MWh). The RECs are what define the green attributes of the power, and they can be sold with (bundled) or without (unbundled) the power that generated them. Oftentimes a utility or company will have an interest in the green attributes of the power they purchase, and thus they will purchase both the MWh of energy as well as the MWh of RECs. However, in cases where the supply of renewable generation is much higher than the demand, excess RECs are generated. Customers on those regional grids may not be willing to pay for the RECs when they buy the power, which opens up those RECs to be purchased by others, sometimes outside of that regional grid altogether. 
 
 ![image-center]({{ site.baseurl }}
-/assets/images/RECsketch.png){: .align-center}
+/assets/images/RECSketch.png){: .align-center}
 
 ## Who Buys RECs
 One of the largest customers interested in purchasing the renewable attributes along with the power are utilities, oftentimes because they are required to meet Renewable Portfolio Standards (RPS) requirements set forth by the states in which they operate (click [here](http://www.ncsl.org/research/energy/renewable-portfolio-standards.aspx) to see all those targets, by state). Below is a table depicting a handful of states and their targets.
