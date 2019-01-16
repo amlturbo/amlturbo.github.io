@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alison"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Impact Driven | Motivated to advance positive change"
+  name             : "Alison Levy"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Impact Driven | Motivated to advance positive change | Cornell ChemE | Ross MBA"
   location         : "Planet Earth"
   email            :
   links:
