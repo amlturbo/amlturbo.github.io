@@ -35,8 +35,8 @@ One of the largest customers interested in purchasing the renewable attributes a
 | New York     | 2004        | 50% by 2030                                                                                   | None               |
 | Ohio         | 2008        | 12.5% by 2026                                                                                | 1.8%               |
 | Pennsylvania | 2004        | 18% by 2020-2021                                                                              | None               |
-| Texas        | 1999        | 5,880 MW by 2015 <br> 10,000 MW by 2025 (goal; achieved).                                         | 3.1%               |
-| Virginia     | 2007        | 15% by 2025 (Voluntary)                                                                                   | None               |
+| Texas        | 1999        | 5,880 MW by 2015 <br> 10,000 MW by 2025 (goal achieved)                                         | 3.1%               |
+| Virginia     | 2007        | 15% by 2025 (voluntary)                                                                                   | None               |
 
   * *Cost Caps, where applicable, limit the increases in ratepayer bills*
 
