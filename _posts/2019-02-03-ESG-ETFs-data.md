@@ -191,7 +191,7 @@ While we cannot easily invest in private firms that are using their businesses a
 ![image-center]({{ site.baseurl }}
 /assets/images/jacplotswell.png){: .align-center}
 
-We can see from this plot that there is little overlap between the Swell funds and any of the ESG ETFs. Note the scale when considering the overlap that does appear with ESML and the Impact 400 Swell fund. This lack of overlap is to be expected: Many of the ETFs encompass a large number of companies, and those companies cover a broad range of industries, while Swell’s funds are by definition relatively focused on single industries.  
+We can see from this plot that there is little overlap between the Swell funds and any of the ESG ETFs. Note the scale when considering the overlap that does appear with the Impact 400 Swell fund. This lack of significant overlap is to be expected: Many of the ETFs encompass a large number of companies, and those companies cover a broad range of industries, while Swell’s funds are by definition relatively focused on single industries.  
 
 Another option comes from a firm called [Ellevest](https://www.ellevest.com/), which targets its investment products towards women. They offer full services to their clients similar to what you’d get at another investment company, but they gear their principles towards counteracting some of the implicit biases that exist in the financial services market. They also offer [funds that claim an impact bent](https://www.ellevest.com/impact-investing), however I was unable to see what is included in them without opening an account.  
 
