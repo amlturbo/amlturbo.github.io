@@ -95,6 +95,7 @@ All in all, awareness is the first step. Remember that it is not an all-or-nothi
 ### Resources:
 * [Omnivore’s Dilemma by Michael Pollan](https://www.amazon.com/Omnivores-Dilemma-Natural-History-Meals/dp/0143038583/ref=sr_1_1?crid=NI047Y8LK9DT&keywords=omnivores+dilemma+michael+pollan&qid=1551286886&s=gateway&sprefix=omnivores+dil%2Caps%2C390&sr=8-1)
 * [In Defense of Food by Michael Pollan](https://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/0143114964/ref=pd_bxgy_img_2/131-2709147-5865308?_encoding=UTF8&pd_rd_i=0143114964&pd_rd_r=54b98ebe-3ab1-11e9-8731-1d588be0369a&pd_rd_w=de2Pz&pd_rd_wg=CMuWp&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=KDRFPDZ5N8R1TJSWVNW1&psc=1&refRID=KDRFPDZ5N8R1TJSWVNW1)
+* [Personal Carbon Footprint Factsheet - University of Michigan](http://css.umich.edu/sites/default/files/Carbon_Footprint_Factsheet_CSS09-05_e2018_0.pdf)
 * [Soil Carbon Cowboys](https://www.soilcarboncowboys.com/films)
 * [Mothers of Invention podcast episode: Against the Grain](https://www.mothersofinvention.online/againstthegrain)
 * [Gastropod podcast episode: To Eat or Not to Eat Meat](https://gastropod.com/to-eat-or-not-to-eat-meat/)
