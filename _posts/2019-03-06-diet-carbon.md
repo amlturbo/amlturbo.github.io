@@ -99,3 +99,4 @@ All in all, awareness is the first step. Remember that it is not an all-or-nothi
 * [Mothers of Invention podcast episode: Against the Grain](https://www.mothersofinvention.online/againstthegrain)
 * [Gastropod podcast episode: To Eat or Not to Eat Meat](https://gastropod.com/to-eat-or-not-to-eat-meat/)
 * [Land, irrigation water, greenhouse gas, and reactive nitrogen burdens of meat, eggs, and dairy production in the United States](https://www.pnas.org/content/pnas/111/33/11996.full.pdf)
+* [Energy and nutrient density of foods in relation to their carbon footprint](https://academic.oup.com/ajcn/article/101/1/184/4564263)
