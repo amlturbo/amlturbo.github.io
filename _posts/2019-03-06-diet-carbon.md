@@ -55,14 +55,14 @@ So what is the carbon impact of changing some of our diet, in a manageable way t
 
 The first option is to reduce protein consumption by 45% to the recommended daily level, from 93g to 0.36g per lb of body weight, or 51g for the average person.  This alone has a huge impact. Each subsequent option outlined in the table below only evaluates the single change listed; i.e. each option after the first assumes that protein intake remains at 93g per day.
 
-| Annual Savings from Diet Decisions                                                                               | lb CO<sub>2</sub> | Miles Driven | 
+| Annual Savings from Diet Decisions                                                                               | lb CO<sub>2</sub> | Miles Driven[^1] | 
 |------------------------------------------------------------------------------------------------------------------|-------------------|--------------| 
-| Reducing overall protein consumption by 45%                                                                      | 1,693             | 1,992        | 
-| Going completely meatless (choosing instead some average of all the remaining meatless options) one day per week | 231               | 272          | 
-| Substituting chicken for beef one day per week                                                                   | 266               | 313          | 
-| Going completely meatless (choosing instead some average of all the remaining meatless options)                  | 1,622             | 1,909        | 
-| Substituting chicken for all beef                                                                                | 1,866             | 2,195        | 
-| Going completely meatless and animal-product free, while minimizing processed “meat replacement” products        | 2,998             | 3,527        | 
+| Reducing overall protein consumption by 45%                                                                      | 1,693             | 2,598        | 
+| Going completely meatless (choosing instead some average of all the remaining meatless options) one day per week | 231               | 355          | 
+| Substituting chicken for beef one day per week                                                                   | 266               | 408          | 
+| Going completely meatless (choosing instead some average of all the remaining meatless options)                  | 1,622             | 2,489        | 
+| Substituting chicken for all beef                                                                                | 1,866             | 2,863        | 
+| Going completely meatless and animal-product free, while minimizing processed “meat replacement” products        | 2,998             | 4,600        | 
 
 
 
@@ -101,3 +101,5 @@ All in all, awareness is the first step. Remember that it is not an all-or-nothi
 * [Gastropod podcast episode: To Eat or Not to Eat Meat](https://gastropod.com/to-eat-or-not-to-eat-meat/)
 * [Land, irrigation water, greenhouse gas, and reactive nitrogen burdens of meat, eggs, and dairy production in the United States](https://www.pnas.org/content/pnas/111/33/11996.full.pdf)
 * [Energy and nutrient density of foods in relation to their carbon footprint](https://academic.oup.com/ajcn/article/101/1/184/4564263)
+
+[^1]: Assumes 8,887 g CO<sub>2</sub>/gallon gasoline ([EIA](https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle)) and 30 mpg average fuel economy vehicle. Thus for every 1.5 miles driven, 1 lb CO<sub>2</sub> is emitted.
