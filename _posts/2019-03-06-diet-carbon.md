@@ -7,6 +7,9 @@ header:
 tags: 
   - Carbon footprint
   - Agriculture
+  - Vegetarian
+  - Vegan
+  - Diet
 ---
 
 Food: It is our body’s fuel. We need it to think and move. We need it to create ideas, and accomplish athletic feats, plus it tastes good. It is what sustains us, and it contributes to our overall, lifelong health. But making food decisions is often fraught. Choose the healthiest option? Choose my favorite option, even if it is not the best for me? From a young age, many of us do not care for fruits and vegetables, particularly when faced with other, much tastier options. [Children are far more sensitive to taste and texture,](https://www.ucsfbenioffchildrens.org/education/picky_eaters/) and preferences created in our youth can spill over into adulthood.
